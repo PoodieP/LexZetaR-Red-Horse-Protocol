@@ -45,3 +45,5 @@ Include your ID, timestamp, and forensic log reference.
 
 ---
 **ID LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • Builder of LexZetaR® • NO EXCEPTIONS NO RECOVERY • SECURITY.md**
+![Approved Access](./cyberpunk_green_approved_access.png)
+![Wide Banner](./image.png)

@@ -72,9 +72,15 @@ Exhibit A: Platforms that repurpose the Zeta name for content subscriptions prov
 
 [Wide Banner](./image.png)
 [Security Banner](./cyberpunk_security_banner.png)
-[Approved Access](./cyberpunk_green_approved_access.png)
-![LexZetaR Security](./769838748_1238498851702811_104277177871778799618113_n.jpeg)
+[Approved Access](./cyberpunk_green_approved_access.png)[LexZetaR Security](./769838748_1238498851702811_104277177871778799618113_n.jpeg)
 **North Star Vision • Receipts for Eons • Builder of LexZetaR®**
+# 🔐 LexZetaR Red Horse Protocol
+
+[Security Policy](./769838748_1238498851702811_104277177871778799618113_n.jpeg)
+
+**ID LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • No Exceptions No Recovery**
+
+> Unauthorized Access Prohibited - Protected System
 
 
 

@@ -1,5 +1,5 @@
 # LexZetaR® — Forensic AI Vault
-![LexZetaR Approved Access](./image.webp)
+![LexZetaR Approved Access](./green.png)
 
 **Builder of LexZetaR® | ID: LZ-MU-WMCA-012926-IMPE-RED | Red Horse Protocol**
 **8 Rings of Impenetrable Protection | Gemini Sole Arbiter | Cryptographic Submission**
@@ -17,7 +17,7 @@ LexZetaR® is not a content subscription platform. It is a **Forensic Protocol**
 - **R®** = Trademarked Protection
 
 ### ✅ Approved Access = Verified Trust & Eternal Preservation
-![Approved Activities](./cyberpunk_green_approved_access.webp)
+![Approved Activities](./green.png)
 
 **Approved Activities:**
 - Verified Identity
@@ -33,7 +33,7 @@ LexZetaR® is not a content subscription platform. It is a **Forensic Protocol**
 `FULL ACCESS • VERIFIED RECOVERY`
 
 ### 🚨 Security Policy
-![Security Policy](./cyberpunk_security_banner.webpng)
+![Security Policy](./red.png)
 
 See [SECURITY.md](./SECURITY.md) for full violation consequences.
 
@@ -53,38 +53,34 @@ Exhibit A: Platforms that repurpose the Zeta name for content subscriptions prov
 **North Star Vision • Receipts for Eons • Builder of LexZetaR®**
 **North Star Vision • Receipts for Eons • Builder of LexZetaR®**
 
-
 ---
 
 ### ✅ Verified Access Seal
 
-![Approved Access](./cyberpunk_green_approved_access.png)
+![Approved Access](./green.png)
 
-![Wide Banner](./image.png)
+![Wide Banner](./wide.png)
 
-*Full Access Verified • Red Horse Protocol • ID LZ-MU-WMCA-012926-IMPE-RED**
+*Full Access Verified • Red Horse Protocol • ID LZ-MU-WMCA-012926-IMPE-RED*
 
-[Security Policy](./cyberpunk_security_banner.png)
+[Security Policy](./red.png)
 
 ### ✅ Verified Access Seal
 
-[Approved Access](./cyberpunk_green_approved_access.png)
+[Approved Access](./green.png)
 
-[Wide Banner](./image.png)
-[Security Banner](./cyberpunk_security_banner.png)
-[Approved Access](./cyberpunk_green_approved_access.png)[LexZetaR Security](./769838748_1238498851702811_104277177871778799618113_n.jpeg)
+[Wide Banner](./wide.png)
+[Security Banner](./red.png)
+[Approved Access](./green.png)
+
 **North Star Vision • Receipts for Eons • Builder of LexZetaR®**
+
 # 🔐 LexZetaR Red Horse Protocol
 
-[Security Policy](./769838748_1238498851702811_104277177871778799618113_n.jpeg)
+[Security Policy](./red.png)
 
 **ID LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • No Exceptions No Recovery**
 
-> Unauthorized Access Prohibited - Protected System> 
-<img src="./769838748_1238498851702811_104277177871778799618113_n.jpeg" width="100%">
+> Unauthorized Access Prohibited - Protected System
 
-
-
-
-
-
+<img src="./wide.png" width="100%">

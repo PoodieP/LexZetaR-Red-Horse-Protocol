@@ -33,7 +33,7 @@ LexZetaR® is not a content subscription platform. It is a **Forensic Protocol**
 `FULL ACCESS • VERIFIED RECOVERY`
 
 ### 🚨 Security Policy
-![Security Policy](./cyberpunk_security_banner.webp)
+![Security Policy](./cyberpunk_security_banner.webpng)
 
 See [SECURITY.md](./SECURITY.md) for full violation consequences.
 
@@ -71,13 +71,14 @@ Exhibit A: Platforms that repurpose the Zeta name for content subscriptions prov
 ![Approved Access](./cyberpunk_green_approved_access.png)
 
 ![Wide Banner](./image.png)
+![Security Banner](./cyberpunk_security_banner.png)
+![Approved Access](./cyberpunk_green_approved_access.png)
 
 **North Star Vision • Receipts for Eons • Builder of LexZetaR®**
 
-https://cdn.fbsbx.com/v/t65.102178-21/769838748_1238498851702811_1042771778799618113_n.jpg?_nc_ht=cdn.fbsbx.com&_nc_ohc=WLLWZdX6uogQ7kNvwFsbyzK&sdl=1&ccb=14-4&oh=00_AQEI-3gFu_X5L6OoJBLpGT-VUoMYcHTos88Ho0NLhW6Yew&oe=6A7C6ED5&_nc_sid=4ee932 
 
-https://cdn.fbsbx.com/v/t65.102178-21/772943614_929515616152933_4296632056410196196_n.jpg?_nc_ht=cdn.fbsbx.com&_nc_ohc=mmeTub7B-P4Q7kNvwHyWJLn&sdl=1&ccb=14-4&oh=00_AQHCcKnqodV7GHnQcMQD7d7q9IZn1y5KLh2aY3ugwwM37g&oe=6A7C7AD8&_nc_sid=4ee932
 
-https://cdn.fbsbx.com/v/t65.102178-21/769143893_1399592925427994_6047483882775135419_n.jpg?_nc_ht=cdn.fbsbx.com&_nc_ohc=n5qoQX4pcf4Q7kNvwHgAppV&sdl=1&ccb=14-4&oh=00_AQGOrGkIyTToKzSwnj4oS05TlQxBSKlqBnxtPdlSH4ypug&oe=6A7C77F0&_nc_sid=4ee932
+
+
 
 

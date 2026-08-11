@@ -1,5 +1,5 @@
 # LexZetaR® Protocol Security Policy
-![LexZetaR Protocol Security Policy](./cyberpunk_security_banner.webp)
+![LexZetaR Protocol Security Policy](./red.png)
 
 **ID: LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • Builder of LexZetaR®**
 **Classification: IMPENETRABLE • Operational Domains: 8 Rings**
@@ -27,7 +27,7 @@ This repository is protected under the **LexZetaR® Forensic AI Vault** protocol
 - **NO EXCEPTIONS • NO RECOVERY**
 
 ### APPROVED ACCESS
-![LexZetaR Approved Access](./image.webp)
+![LexZetaR Approved Access](./green.png)
 
 - Verified Identity
 - Authorized Model Access
@@ -45,5 +45,4 @@ Include your ID, timestamp, and forensic log reference.
 
 ---
 **ID LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • Builder of LexZetaR® • NO EXCEPTIONS NO RECOVERY • SECURITY.md**
-![Approved Access](./cyberpunk_green_approved_access.png)
-![Wide Banner](./image.png)
+![Approved Access](./green.png)

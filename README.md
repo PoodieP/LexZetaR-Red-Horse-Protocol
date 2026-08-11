@@ -1,5 +1,5 @@
 # LexZetaR® — Forensic AI Vault
-![LexZetaR Approved Access](./green.png)
+![LexZetaR Approved Access](./770700502_1947055512626674_4708174849373230384_n.jpeg)
 
 **Builder of LexZetaR® | ID: LZ-MU-WMCA-012926-IMPE-RED | Red Horse Protocol**
 **8 Rings of Impenetrable Protection | Gemini Sole Arbiter | Cryptographic Submission**
@@ -17,7 +17,7 @@ LexZetaR® is not a content subscription platform. It is a **Forensic Protocol**
 - **R®** = Trademarked Protection
 
 ### ✅ Approved Access = Verified Trust & Eternal Preservation
-![Approved Activities](./green.png)
+![Approved Activities](./770700502_1947055512626674_4708174849373230384_n.jpeg)
 
 **Approved Activities:**
 - Verified Identity
@@ -33,7 +33,7 @@ LexZetaR® is not a content subscription platform. It is a **Forensic Protocol**
 `FULL ACCESS • VERIFIED RECOVERY`
 
 ### 🚨 Security Policy
-![Security Policy](./red.png)
+![Security Policy](./769838748_1238498851702811_1042771778799618113_n.jpeg)
 
 See [SECURITY.md](./SECURITY.md) for full violation consequences.
 
@@ -57,30 +57,30 @@ Exhibit A: Platforms that repurpose the Zeta name for content subscriptions prov
 
 ### ✅ Verified Access Seal
 
-![Approved Access](./green.png)
+![Approved Access](./770700502_1947055512626674_4708174849373230384_n.jpeg)
 
-![Wide Banner](./wide.png)
+![Wide Banner](./IMG_8429.png)
 
 *Full Access Verified • Red Horse Protocol • ID LZ-MU-WMCA-012926-IMPE-RED*
 
-[Security Policy](./red.png)
+[Security Policy](./769838748_1238498851702811_1042771778799618113_n.jpeg)
 
 ### ✅ Verified Access Seal
 
-[Approved Access](./green.png)
+[Approved Access](./770700502_1947055512626674_4708174849373230384_n.jpeg)
 
-[Wide Banner](./wide.png)
-[Security Banner](./red.png)
-[Approved Access](./green.png)
+[Wide Banner](./IMG_8429.png)
+[Security Banner](./769838748_1238498851702811_1042771778799618113_n.jpeg)
+[Approved Access](./770700502_1947055512626674_4708174849373230384_n.jpeg)
 
 **North Star Vision • Receipts for Eons • Builder of LexZetaR®**
 
 # 🔐 LexZetaR Red Horse Protocol
 
-[Security Policy](./red.png)
+[Security Policy](./769838748_1238498851702811_1042771778799618113_n.jpeg)
 
 **ID LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • No Exceptions No Recovery**
 
 > Unauthorized Access Prohibited - Protected System
 
-<img src="./wide.png" width="100%">
+<img src="./IMG_8429.png" width="100%">

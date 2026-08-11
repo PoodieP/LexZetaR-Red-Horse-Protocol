@@ -80,8 +80,8 @@ Exhibit A: Platforms that repurpose the Zeta name for content subscriptions prov
 
 **ID LZ-MU-WMCA-012926-IMPE-RED • Red Horse Protocol • No Exceptions No Recovery**
 
-> Unauthorized Access Prohibited - Protected System
-
+> Unauthorized Access Prohibited - Protected System> 
+<img src="./769838748_1238498851702811_104277177871778799618113_n.jpeg" width="100%">
 
 
 
